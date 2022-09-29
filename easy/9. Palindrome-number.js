@@ -6,5 +6,4 @@ var isPalindrome = function(x) {
         if (strNum[i] != strNum[strNum.length - 1 - i]) return false
     }
     return true
-    
 };
